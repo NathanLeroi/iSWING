@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 18 14:46:13 2017
 
-@author: Nathan LeKing
+@author: Nathan Leroi
 """
 
 import sys
